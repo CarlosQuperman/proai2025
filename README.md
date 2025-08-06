@@ -12,3 +12,6 @@ https://docs.google.com/document/d/11R1FIfroHwir3oR6TMcxtuBnL-cxbs2BLRjmjYym6Iw/
 
 1) 합성 데이터 안내서
 https://www.pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS074&mCode=C020010000&nttId=10871#LINK
+
+2) 기명정보 합성 지원 플랫폼
+https://dataprivacy.go.kr/
