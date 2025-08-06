@@ -5,4 +5,7 @@
 1) 수명 예측
 https://docs.google.com/document/d/1EDUlLLB11zeEskKhlzzqnIEYIbdzvF1MVoDIfBOMwtU/edit?tab=t.0
 
-2) 
+2) 캐릭터 생존 확률 예측
+https://docs.google.com/document/d/11R1FIfroHwir3oR6TMcxtuBnL-cxbs2BLRjmjYym6Iw/edit?tab=t.0
+
+
